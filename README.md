@@ -55,19 +55,19 @@ source sql/Library_drop.sql
 
 ## Screenshots
 
-![Screenshot 2024-09-04 015821](C:\Users\LENOVO\Documents\College\Entire Material\sem 4\dbms\lab\Session 10 - JDBC\library-db\screenshots\Screenshot 2024-09-04 015821.png)
+![Screenshot 2024-09-04 015821](.\screenshots\Screenshot 2024-09-04 015821.png)
 
-![Screenshot 2024-09-04 015837](C:\Users\LENOVO\Documents\College\Entire Material\sem 4\dbms\lab\Session 10 - JDBC\library-db\screenshots\Screenshot 2024-09-04 015837.png)
+![Screenshot 2024-09-04 015837](.\screenshots\Screenshot 2024-09-04 015837.png)
 
-![Screenshot 2024-09-04 015901](C:\Users\LENOVO\Documents\College\Entire Material\sem 4\dbms\lab\Session 10 - JDBC\library-db\screenshots\Screenshot 2024-09-04 015901.png)
+![Screenshot 2024-09-04 015901](.\screenshots\Screenshot 2024-09-04 015901.png)
 
-![Screenshot 2024-09-04 015913](C:\Users\LENOVO\Documents\College\Entire Material\sem 4\dbms\lab\Session 10 - JDBC\library-db\screenshots\Screenshot 2024-09-04 015913.png)
+![Screenshot 2024-09-04 015913](.\screenshots\Screenshot 2024-09-04 015913.png)
 
-![Screenshot 2024-09-04 015924](C:\Users\LENOVO\Documents\College\Entire Material\sem 4\dbms\lab\Session 10 - JDBC\library-db\screenshots\Screenshot 2024-09-04 015924.png)
+![Screenshot 2024-09-04 015924](.\screenshots\Screenshot 2024-09-04 015924.png)
 
-![Screenshot 2024-09-04 015940](C:\Users\LENOVO\Documents\College\Entire Material\sem 4\dbms\lab\Session 10 - JDBC\library-db\screenshots\Screenshot 2024-09-04 015940.png)
+![Screenshot 2024-09-04 015940](.\screenshots\Screenshot 2024-09-04 015940.png)
 
-![Screenshot 2024-09-04 015952](C:\Users\LENOVO\Documents\College\Entire Material\sem 4\dbms\lab\Session 10 - JDBC\library-db\screenshots\Screenshot 2024-09-04 015952.png)
+![Screenshot 2024-09-04 015952](.\screenshots\Screenshot 2024-09-04 015952.png)
 
 ## Project Structure
 
@@ -79,7 +79,7 @@ source sql/Library_drop.sql
 
 ## UML Diagrams
 
-![Screenshot 2024-09-04 015655](C:\Users\LENOVO\Documents\College\Entire Material\sem 4\dbms\lab\Session 10 - JDBC\library-db\screenshots\Screenshot 2024-09-04 015655.png)
+![Screenshot 2024-09-04 015655](.\screenshots\Screenshot 2024-09-04 015655.png)
 
 ## Notes
 - The system uses a console-based interface for interaction.
