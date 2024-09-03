@@ -55,19 +55,19 @@ source sql/Library_drop.sql
 
 ## Screenshots
 
-![Screenshot 2024-09-04 015821](.\screenshots\Screenshot 2024-09-04 015821.png)
+<img src="./screenshots/Screenshot 2024-09-04 015821.png" alt="Screenshot 1" />
 
-![Screenshot 2024-09-04 015837](.\screenshots\Screenshot 2024-09-04 015837.png)
+<img src="./screenshots/Screenshot 2024-09-04 015837.png" alt="Screenshot 2" />
 
-![Screenshot 2024-09-04 015901](.\screenshots\Screenshot 2024-09-04 015901.png)
+<img src="./screenshots/Screenshot 2024-09-04 015901.png" alt="Screenshot 3" />
 
-![Screenshot 2024-09-04 015913](.\screenshots\Screenshot 2024-09-04 015913.png)
+<img src="./screenshots/Screenshot 2024-09-04 015913.png" alt="Screenshot 4" />
 
-![Screenshot 2024-09-04 015924](.\screenshots\Screenshot 2024-09-04 015924.png)
+<img src="./screenshots/Screenshot 2024-09-04 015924.png" alt="Screenshot 5" />
 
-![Screenshot 2024-09-04 015940](.\screenshots\Screenshot 2024-09-04 015940.png)
+<img src="./screenshots/Screenshot 2024-09-04 015940.png" alt="Screenshot 6" />
 
-![Screenshot 2024-09-04 015952](.\screenshots\Screenshot 2024-09-04 015952.png)
+<img src="./screenshots/Screenshot 2024-09-04 015952.png" alt="Screenshot 7" />
 
 ## Project Structure
 
@@ -79,7 +79,7 @@ source sql/Library_drop.sql
 
 ## UML Diagrams
 
-![Screenshot 2024-09-04 015655](.\screenshots\Screenshot 2024-09-04 015655.png)
+<img src="./screenshots/Screenshot 2024-09-04 015655.png" alt="Screenshot 8" />
 
 ## Notes
 - The system uses a console-based interface for interaction.
